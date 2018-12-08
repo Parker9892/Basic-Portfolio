@@ -1,0 +1,20 @@
+body{
+
+   margin-left: 30%
+}
+
+
+.margins {
+    margin: auto
+}
+#message{
+border: 2px solid black;
+}
+
+#name{
+    border: 2px solid black;
+}
+
+#email{
+    border: 2px solid black;
+}

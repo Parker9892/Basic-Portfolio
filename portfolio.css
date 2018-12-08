@@ -1,0 +1,25 @@
+
+
+body{
+    background: url(https://images.woodmagazine.mdpcdn.com/sites/default/files/styles/width_550/public/image/migrated//wood/images//133_2_1.gif)
+}
+
+
+table{
+    margin: auto;
+    padding: 20px;
+    border: 20px;
+}
+
+h4{
+
+    
+    text-align: center;
+}
+
+img{
+    float: left;
+    width: 30%;
+    height: 2%;
+    margin: 1.6%;
+}
