@@ -1,7 +1,28 @@
 #craig{
 
-    border: 10px solid black;
+    border: 2px solid black;
     padding: 10px;
     width: 50%;
     margin: auto;
+    background: white;
+}
+
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+    background: url(https://aafloors.ca/wp-content/uploads/2016/03/XX-1R44-000-PL1_PREOIL_NATURAL.jpg)
+}
+
+.parker{
+
+
+}
+
+h1{
+   text-align: center;
+}
+
+header{
+    
+    text-align: center;
 }
